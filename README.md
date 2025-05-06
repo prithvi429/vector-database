@@ -30,7 +30,7 @@ This repository includes two Google Colab notebooks demonstrating how to work wi
 > Replace the URLs below with actual GitHub URLs once uploaded:
 
 - [Open Pinecone Notebook](https://colab.research.google.com/drive/1z_EsQ-9vv7TLUP5Q1i3eOrKPwNRVIvZf?usp=sharing)
-- [Open ChromaDB Notebook](https://drive.google.com/file/d/1ZSS0UuqPrsv4vZ2_M8j6I9uVbTZm5oSO/view?usp=sharing)
+- [Open ChromaDB Notebook](https://colab.research.google.com/drive/1Mc7sHwN_ndRmPVoT_zjHe6MCmRHPCTBZ?usp=sharing)
 
 ## 📬 Contact
 
